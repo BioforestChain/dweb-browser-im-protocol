@@ -8,8 +8,8 @@ package rtc
 
 import (
 	context "context"
-	sdkws "github.com/OpenIMSDK/protocol/sdkws"
-	_ "github.com/OpenIMSDK/protocol/wrapperspb"
+	sdkws "github.com/BioforestChain/dweb-browser-im-protocol/sdkws"
+	_ "github.com/BioforestChain/dweb-browser-im-protocol/wrapperspb"
 	grpc "google.golang.org/grpc"
 	codes "google.golang.org/grpc/codes"
 	status "google.golang.org/grpc/status"

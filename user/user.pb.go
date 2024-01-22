@@ -22,9 +22,9 @@ package user
 
 import (
 	context "context"
-	conversation "github.com/OpenIMSDK/protocol/conversation"
-	sdkws "github.com/OpenIMSDK/protocol/sdkws"
-	wrapperspb "github.com/OpenIMSDK/protocol/wrapperspb"
+	conversation "github.com/BioforestChain/dweb-browser-im-protocol/conversation"
+	sdkws "github.com/BioforestChain/dweb-browser-im-protocol/sdkws"
+	wrapperspb "github.com/BioforestChain/dweb-browser-im-protocol/wrapperspb"
 	grpc "google.golang.org/grpc"
 	codes "google.golang.org/grpc/codes"
 	status "google.golang.org/grpc/status"

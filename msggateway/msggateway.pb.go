@@ -22,7 +22,7 @@ package msggateway
 
 import (
 	context "context"
-	sdkws "github.com/OpenIMSDK/protocol/sdkws"
+	sdkws "github.com/BioforestChain/dweb-browser-im-protocol/sdkws"
 	grpc "google.golang.org/grpc"
 	codes "google.golang.org/grpc/codes"
 	status "google.golang.org/grpc/status"

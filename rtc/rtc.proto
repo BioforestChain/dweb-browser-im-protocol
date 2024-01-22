@@ -2,7 +2,7 @@ syntax = "proto3";
 package OpenIMServer.rtc;
 import "sdkws/sdkws.proto";
 import "wrapperspb/wrapperspb.proto";
-option go_package = "github.com/OpenIMSDK/protocol/rtc";
+option go_package = "github.com/BioforestChain/dweb-browser-im-protocol/rtc";
 
 message ParticipantMetaData{
   OpenIMServer.sdkws.GroupInfo groupInfo = 1;
